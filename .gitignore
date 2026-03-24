@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Logs and outputs
+log/
+outputs/
+outputs_*/
+*.log
+
+# Large experiment folders (excluded from Git)
+result traffic/
+results traffic/
+MGT Result/
+MGT result/
+electricity codes/
+electricit codes/
+
+# IDE
+.vscode/
+.idea/
