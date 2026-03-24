@@ -3,6 +3,7 @@
 Codebase for the preprint:
 **Centrality-Based Pruning for Efficient Echo State Networks**  
 Sudip Laudari (Independent Researcher)
+arXiv: https://arxiv.org/abs/2603.20684
 
 ## Overview
 
