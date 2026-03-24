@@ -95,3 +95,4 @@ Logging:
 
 If you use this code, please cite the corresponding preprint:
 **Centrality-Based Pruning for Efficient Echo State Networks** (March 24, 2026).
+**https://arxiv.org/abs/2603.20684**
